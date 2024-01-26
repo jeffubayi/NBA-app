@@ -12,7 +12,8 @@ NBA mobile application - explore basketball games,news and stats
 
 - Typescript
 - Expo
-- Firebase
+- Supabase
+- Rapid API
 
 
 ![image](https://i.imgur.com/MGY46T4.jpg)
